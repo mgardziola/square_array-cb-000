@@ -2,9 +2,9 @@ def square_array(array)
   
     numbers = Array.new
     
-  array.each do |index|
+  array.each do |number|
       
-      numbers.push(index**2)
+      numbers.push(number**2)
   
   end
   
