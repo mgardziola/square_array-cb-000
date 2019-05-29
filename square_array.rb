@@ -5,8 +5,11 @@ def square_array(array)
   array.each do |number|
       
       numbers.push(number**2)
-end
-
+      
+  end
+  
+  return numbers
+  
 end
     
 
