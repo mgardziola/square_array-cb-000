@@ -4,4 +4,5 @@ def square_array(array)
     numbers = []
     numbers << index**2
   end
+  
 end
